@@ -1,6 +1,7 @@
 apples
-oranges
 bananas
-rasberries
+kiwis
 mangos
+oranges
+rasberries
 watermelon
