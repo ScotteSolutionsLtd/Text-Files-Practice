@@ -1,7 +1,9 @@
 apples
 bananas
+blueberries
 kiwis
 mangos
 oranges
 rasberries
+strawberries
 watermelon
