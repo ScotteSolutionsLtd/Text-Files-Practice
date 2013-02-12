@@ -4,3 +4,6 @@ bananas
 rasberries
 mangos
 watermelon
+papaya
+melons
+grapefruit
