@@ -1,6 +1,9 @@
 apples
 oranges
 bananas
-rasberries
 mangos
 watermelon
+pinapple
+rum
+vodka
+beer
