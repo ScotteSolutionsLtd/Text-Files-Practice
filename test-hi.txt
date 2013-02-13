@@ -1,9 +1,13 @@
 apples
-oranges
 bananas
-rasberries
+blueberries
+kiwis
 mangos
 watermelon
 papaya
 melons
 grapefruit
+oranges
+rasberries
+strawberries
+watermelon
