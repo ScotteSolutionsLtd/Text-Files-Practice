@@ -7,3 +7,7 @@ watermelon
 papaya
 melons
 grapefruit
+bloodorange
+starfruit
+dragonfruit
+strawberries
