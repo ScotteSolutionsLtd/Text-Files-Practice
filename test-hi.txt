@@ -5,6 +5,6 @@ grapes
 kiwis
 mangos
 oranges
-rasberries
+raspberries
 strawberries
 watermelon
