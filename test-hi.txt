@@ -8,3 +8,7 @@ kiwi
 blueberries
 star fruit
 plantain
+salad
+romaine
+tomatoes
+potatoes
