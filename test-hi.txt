@@ -4,6 +4,10 @@ blueberries
 grapes
 kiwis
 mangos
+blender
+toaster
+car
+WD-40
 oranges
 raspberries
 strawberries
