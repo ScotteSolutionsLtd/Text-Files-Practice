@@ -1,4 +1,11 @@
 apples
+
+oranges
+cards
+trucks
+semis
+cake
+laura-branch
 bananas
 blueberries
 grapes
@@ -12,3 +19,28 @@ oranges
 raspberries
 strawberries
 watermelon
+papaya
+melons
+grapefruit
+oranges
+vodka
+strawberries
+watermelon
+Yur Grammy was here:)   also Chris was here
+pinapple
+rum
+rasberries
+beer
+tequila
+port
+beer
+rum
+gin
+whiskey
+vodka
+bloodorange
+starfruit
+dragonfruit
+strawberries
+laura-branch
+>>>>>>> chris-merging-branch
