@@ -1,9 +1,14 @@
 apples
 oranges
+cards
+trucks
+semis
+cake
 bananas
 rasberries
 mangos
 watermelon
+
 kiwi
 blueberries
 star fruit
@@ -12,3 +17,12 @@ salad
 romaine
 tomatoes
 potatoes
+
+papaya
+melons
+grapefruit
+bloodorange
+starfruit
+dragonfruit
+strawberries
+
