@@ -1,4 +1,11 @@
 apples
+
+oranges
+cards
+trucks
+semis
+cake
+laura-branch
 bananas
 blueberries
 kiwis
@@ -22,4 +29,9 @@ beer
 rum
 gin
 whiskey
-vodk
+vodka
+bloodorange
+starfruit
+dragonfruit
+strawberries
+laura-branch
