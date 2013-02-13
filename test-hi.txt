@@ -18,3 +18,8 @@ rasberries
 beer
 tequila
 port
+beer
+rum
+gin
+whiskey
+vodk
