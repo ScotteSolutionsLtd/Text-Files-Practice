@@ -1,5 +1,9 @@
 apples
 oranges
+cards
+trucks
+semis
+cake
 bananas
 rasberries
 mangos
