@@ -4,8 +4,8 @@ bananas
 rasberries
 mangos
 watermelon
-vodka
 beer
 rum
 gin
 whiskey
+vodka
